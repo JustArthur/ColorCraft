@@ -1,0 +1,8 @@
+{
+  "msg.autoswitch.mow_false": "Mow When Fighting: §cDisabled",
+  "msg.autoswitch.mow_true": "Mow When Fighting: §aEnabled",
+  "msg.autoswitch.toggle_false": "AutoSwitch: §cDisabled",
+  "msg.autoswitch.toggle_true": "AutoSwitch: §aEnabled",
+  "msg.autoswitch.config.2": "§4Do not open or decompile AutoSwitch to change them!",
+  "msg.autoswitch.reset" : "§aSwitch state has been reset"
+}

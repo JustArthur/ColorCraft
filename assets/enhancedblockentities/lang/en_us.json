@@ -1,0 +1,12 @@
+{
+    "value.ebe.true": "§aOn",
+    "value.ebe.false": "§cOff",
+    "value.ebe.allowed": "§9Allowed",
+    "value.ebe.forced": "§4Forced",
+    "value.ebe.disabled": "§cDisabled",
+    "value.ebe.smart": "§3Smart",
+    "value.ebe.all": "§2All",
+    "value.ebe.most": "§aMost",
+    "value.ebe.some": "§cSome",
+    "value.ebe.few": "§4Few"
+}

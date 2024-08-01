@@ -1,0 +1,6 @@
+{
+  "msg.autoswitch.mow_false": "Tondre en combat: §cDésactivé",
+  "msg.autoswitch.mow_true": "Tondre en combat: §aActivé",
+  "msg.autoswitch.toggle_false": "AutoSwitch: §cDésactivé",
+  "msg.autoswitch.toggle_true": "AutoSwitch: §aActivé"
+}
