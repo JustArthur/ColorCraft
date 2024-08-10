@@ -1,0 +1,20 @@
+{
+	"gui.xaero_debug" : "§9Debug",
+	"gui.xaero_on" : "§aON",
+	"gui.xaero_off" : "§cOFF",
+	"gui.xaero_back" : "§cBack",
+	"gui.xaero_confirm" : "§aConfirm",
+	"gui.xaero_cancel" : "§cCancel",
+	"gui.xaero_rename" : "§eRename",
+	"gui.xaero_delete" : "§4Delete",
+	"gui.xaero_delete_map_msg1" : "Are you sure you would like to §4delete§r the selected map?",
+	"gui.xaero_wm_next" : "§2Next§r >>",
+	"gui.xaero_wm_previous" : "<< §4Prev§r",
+	"gui.xaero_wm_red" : "§cRed", 
+	"gui.xaero_wm_green" : "§aGreen", 
+	"gui.xaero_wm_blue" : "§9Blue", 
+	"gui.xaero_wm_yellow" : "§eYellow",
+	"gui.xaero_wm_purple" : "§5Purple", 
+	"gui.xaero_wm_white" : "§fWhite", 
+	"gui.xaero_wm_black" : "§7Black"
+}
