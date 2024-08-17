@@ -1,0 +1,26 @@
+{
+  "menu.cavedust.global.false": "Cave Dust: §cDisabled",
+  "menu.cavedust.global.true": "Cave Dust: §aEnabled",
+  "menu.cavedust.global.tooltip.false": "§aEnable cave dust particles?",
+  "menu.cavedust.global.tooltip.true": "§cDisable cave dust particles?",
+  "menu.cavedust.width": "Width bounds: §e%s",
+  "menu.cavedust.height": "Height bounds: §e%s",
+  "menu.cavedust.upperlimit": "Upper limit height: §e%s",
+  "menu.cavedust.lowerlimit": "Lower limit height: §e%s",
+  "menu.cavedust.reset": "§cReset settings",
+  "menu.cavedust.reset.tooltip": "§4Are you sure you want to reset all settings?",
+  "menu.cavedust.particlemultiplier": "Particle amount: §e%s",
+  "menu.cavedust.particlemultipliermultiplier": "Particle multiplier: §e%s",
+  "menu.cavedust.velocityrandomness": "Velocity randomness: §e%s",
+  "menu.cavedust.enhanceddetection.true": "Enhanced detection: §aEnabled",
+  "menu.cavedust.enhanceddetection.false": "Enhanced detection: §cDisabled",
+  "menu.cavedust.superflatstatus.true": "Superflat particles: §aEnabled",
+  "menu.cavedust.superflatstatus.false": "Superflat particles: §cDisabled",
+  "key.cavedust.reload": "§eReload Config",
+  "key.cavedust.toggle": "§aEnable§r/§cDisabled§r Particles",
+
+  "debug.cavedust.toggle.true": "(Cave Dust) §aEnabled§r particles",
+  "debug.cavedust.toggle.false": "(Cave Dust) §cDisabled§r particles",
+  "debug.cavedust.reload": "(Cave Dust) §eReloaded§r config",
+  "debug.cavedust.particleerror": "§4(Cave Dust) Error setting particle, skipping to next particle!"
+}

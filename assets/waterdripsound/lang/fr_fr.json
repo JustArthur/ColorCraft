@@ -1,0 +1,10 @@
+{
+  "key.waterdripsound.category": "Général",
+  "config.waterdripsound.general": "Configuration des sons de gouttes",
+  "config.waterdripsound.enable": "§aActivé",
+  "config.waterdripsound.volume": "§eVolume",
+  "config.waterdripsound.dripChance": "Probabilité de goutte",
+  "config.waterdripsound.useDripstoneSounds": "Utiliser les sons de spéléothème pointu",
+  "tooltip.config.waterdripsound.useDripstoneSounds": "Si activé, utilise les sons de gouttes\n d'eau/lave des spéléothèmes pointus ajoutés en 1.17.\nSinon, utilise les sons des\n versions plus anciennes du mod.",
+  "config.waterdripsound.soundCategory": "Catégorie de son"
+}

@@ -1,0 +1,27 @@
+{
+    "bobby.upgrade.required": "[Bobby] Ce monde contient des données d'une ancienne version de Minecraft. Exécutez `/bobby upgrade` pour le mettre à niveau.",
+    "bobby.upgrade.fallback_world": "[Bobby] Votre monde de secours contient des données d'une ancienne version de Minecraft. Mettez-le à niveau depuis le menu \"Solo\" en utilisant l'option \"Modifier\" -> \"Optimiser le Monde\".",
+    "bobby.upgrade.not_enabled": "§cBobby n'est pas activé pour ce monde.",
+    "bobby.upgrade.begin": "[Bobby] Mise à niveau des données du monde vers la version actuelle de Minecraft. Cela peut prendre quelques minutes.",
+    "bobby.upgrade.progress": "[Bobby] %d chunks mis à niveau sur (estimé) %d chunks (monde %d sur %d).",
+    "bobby.upgrade.done": "[Bobby] Mise à niveau des données du monde terminée. Vos anciens chunks devraient maintenant être visibles à nouveau.",
+
+    "bobby.dynamic_multi_world.not_enabled": "[Bobby] La gestion dynamique des mondes n'est pas activée.",
+
+    "title.bobby.config": "§eConfiguration de Bobby",
+    "option.bobby.enabled": "§aActivé",
+    "option.bobby.dynamic_multi_world": "Gestion dynamique des mondes",
+    "tooltip.option.bobby.dynamic_multi_world": "Active la prise en charge des serveurs avec plusieurs mondes portant le même nom.\n\nLorsqu'elle est activée, un nouveau cache local est démarré à chaque changement de monde. Si suffisamment de chunks similaires sont trouvés dans deux caches, ils seront automatiquement fusionnés.\nCela signifie que vous devrez peut-être vous déplacer un peu avant que Bobby ne charge les chunks mis en cache s'il y a peu d'informations d'identification dans votre monde (par exemple, les mondes plats).\n\nVous devrez peut-être supprimer votre cache existant s'il est composé de plusieurs mondes pour éviter que Bobby ne le fusionne.\nNécessite un `/bobby upgrade` après l'activation avec le cache existant.",
+    "option.bobby.no_block_entities": "§cDésactiver§r les blocs d'entités",
+    "tooltip.option.bobby.no_block_entities": "Ne pas charger les blocs d'entités (par exemple, les coffres) dans les faux chunks.\nCes entités doivent être mises à jour à chaque tick, ce qui peut s'accumuler.\n\nActivé par défaut car la distance de rendu pour les entités de bloc est généralement plus petite que la distance de vue du serveur.",
+    "option.bobby.taint_fake_chunks": "Assombrir les faux chunks",
+    "tooltip.option.bobby.taint_fake_chunks": "Réduit les niveaux de lumière dans les faux chunks afin que vous puissiez faire la différence avec les vrais.",
+    "option.bobby.unload_delay": "Délai de déchargement des Chunks (Secondes)",
+    "tooltip.option.bobby.unload_delay": "Retarde le déchargement des chunks qui sont hors de votre distance de vue.\nVous évite de devoir recharger tous les chunks lorsque\nvous quittez une zone pour un court moment (par exemple, les cinématiques).\nNe fonctionne pas à travers les dimensions.",
+    "option.bobby.delete_unused_regions_after_days": "Nettoyage des régions inutilisées (Jours)",
+    "tooltip.option.bobby.delete_unused_regions_after_days": "Supprime les régions du cache lorsqu'elles n'ont pas été chargées pendant X jours.\n\nLe cache d'un monde donné est nettoyé chaque fois que vous vous déconnectez du serveur.\nLes mondes entiers sont nettoyés au démarrage du jeu si vous ne les avez pas visités depuis X jours.\n\nRéglez sur -1 pour désactiver.\nRéglez sur 0 pour tout nettoyer après chaque déconnexion.",
+    "option.bobby.max_render_distance": "Distance de rendu maximale",
+    "tooltip.option.bobby.max_render_distance": "Change la valeur maximale configurable pour la distance de rendu.\n\nNécessite Sodium.",
+    "option.bobby.view_distance_overwrite": "Distance de vue du serveur en Solo",
+    "tooltip.option.bobby.view_distance_overwrite": "Remplace la distance de vue du serveur intégré.\nCela permet à Bobby d'être utile en Solo.\n\nDésactivé lorsqu'il est réglé à 0.\nBobby est actif en solo uniquement si cela est activé.\nNécessite une reconnexion pour activer/désactiver."
+}

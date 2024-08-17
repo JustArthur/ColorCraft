@@ -1,0 +1,21 @@
+{
+	"key.elytratime.show": "Afficher le temps restant",
+	"key.elytratime.config": "Ouvrir le menu de configuration",
+	"category.elytratime.controls": "Temps d'Elytra",
+	"message.elytratime.no_elytra": "Vous n'avez pas d'elytra équipé(e) !",
+	"value.elytratime.tooltip_format": "[TIME] restant ([%]%)",
+	"value.elytratime.time_format": "[M]m [S]s",
+	"value.elytratime.time_report_format": "Temps de vol restant : [TIME] ([%]%)",
+	"title.elytratime.config": "Temps d'Elytra",
+	"category.elytratime.general": "Général",
+	"option.elytratime.tooltip_format": "Format de l'infobulle",
+	"option.elytratime.enable_tooltip": "§aActiver§r l'infobulle",
+	"option.elytratime.alert_threshold": "Seuil d'alerte",
+	"option.elytratime.time_format": "Format du temps",
+	"option.elytratime.time_report_format": "Format du rapport de temps",
+	"tooltip.elytratime.tooltip_format": "Le format de l'infobulle\n\n§nVariables§r\n§l[TIME]§r : Le temps restant\n§l[%]§r : Le pourcentage de durabilité restant",
+	"tooltip.elytratime.enabled": "§aActive§r / §cDésactive§r l'infobulle",
+	"tooltip.elytratime.alert_threshold": "Le pourcentage que l'elytra doit atteindre pour alerter le joueur",
+	"tooltip.elytratime.time_format": "Le format du temps\n\n§nVariables§r\n§l[M]§r : Minutes\n§l[S]§r : Secondes",
+	"tooltip.elytratime.time_report_format": "Le format utilisé pour le rapport de temps dans le chat\n\n§nVariables§r\n§l[TIME]§r : Le temps restant\n§l[%]§r : Le pourcentage de durabilité restant"
+}
