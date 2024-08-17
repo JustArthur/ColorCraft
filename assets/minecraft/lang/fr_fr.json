@@ -123,7 +123,7 @@
 	"event.minecraft.raid.defeat.full": "Invasion - §4Défaite",
 	"event.minecraft.raid.victory": "§2Victoire",
 	"event.minecraft.raid.victory.full": "Invasion - §2Victoire",
-	"event.minecraft.raid": "$4Invasion",
+	"event.minecraft.raid": "§4Invasion",
 
 	"commands.experience.add.levels.success.multiple": "Don de§2 %s niveau(x) d'expérience§r à %s joueurs",
 	"commands.experience.add.levels.success.single": "Don de§2 %s niveau(x)d'expérience§r à %s",
