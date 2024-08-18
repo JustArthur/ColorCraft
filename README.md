@@ -1,6 +1,4 @@
 ![ColorCraft](https://github.com/JustArthur/ColorCraft/blob/main/images/banner.png?raw=true)
-# 🦅 - English
-
 Enhance your Minecraft experience with this texture pack designed to improve text visibility. This pack changes the color of various in-game texts, making them easier to read against different backgrounds. Whether you're navigating through menus or reading chat messages, this pack ensures better contrast and clarity, providing a more comfortable gaming experience.
 
 ---
