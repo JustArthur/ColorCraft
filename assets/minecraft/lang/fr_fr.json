@@ -61,9 +61,12 @@
 	"selectServer.add": "§aAjouter un serveur",
 
 	"menu.quit": "§cQuitter le jeu",
+	"menu.disconnect": "§cDéconnexion",
+	
 	"menu.returnToMenu": "§cSauvegarder et retourner au menu",
 	"menu.savingChunks": "§aSauvegarde des chunks",
   	"menu.savingLevel": "§aSauvegarde du monde",
+
 
 	"options.simulationDistance": "Distance de simulation",
 	"options.renderDistance": "Distance de rendu",

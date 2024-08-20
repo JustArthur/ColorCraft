@@ -37,6 +37,7 @@
     
     "mco.notification.visitUrl.buttonText.default": "§aОткрыть ссылку",
 
+    "menu.disconnect": "§cОтключить",
     "menu.quit": "§cВыйти из игры",
     "menu.returnToMenu": "§cСохранить и выйти",
     "menu.savingChunks": "§aСохранение чанков",
@@ -330,7 +331,7 @@
     "enchantment.minecraft.blast_protection": "§bВзрывоустойчивость",
     "enchantment.minecraft.channeling": "§dГромовержец",
     "enchantment.minecraft.depth_strider": "§3Подводная ходьба",
-    "enchantment.minecraft.efficiency": "§fЭффективность"
+    "enchantment.minecraft.efficiency": "§fЭффективность",
     "enchantment.minecraft.feather_falling": "§fНевесомость",
     "enchantment.minecraft.fire_aspect": "§6Заговор огня",
     "enchantment.minecraft.fire_protection": "§bОгнеупорность",

@@ -32,7 +32,7 @@ Enhance your Minecraft experience with this texture pack designed to improve tex
 # Supported languages
 - en_us
 - fr_fr
-- ru_ru
+- ru_ru (Thanks to [YarTom](https://modrinth.com/user/YarTom))
 
 # Supported mods
 - [AutoSwitch](https://modrinth.com/mod/autoswitch)

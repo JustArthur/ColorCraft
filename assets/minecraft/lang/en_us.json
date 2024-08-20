@@ -37,6 +37,7 @@
     
     "mco.notification.visitUrl.buttonText.default": "§aOpen Link",
 
+    "menu.disconnect": "§cDisconnect",
     "menu.quit": "§cQuit Game",
     "menu.returnToMenu": "§cSave and Quit to Title",
     "menu.savingChunks": "§aSaving chunks",
