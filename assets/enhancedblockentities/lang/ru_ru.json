@@ -1,0 +1,12 @@
+{
+    "value.ebe.true": "§aВкл",
+    "value.ebe.false": "§cВыкл",
+    "value.ebe.allowed": "§9Разрешены",
+    "value.ebe.forced": "§4Включены",
+    "value.ebe.disabled": "§cОтключены",
+    "value.ebe.smart": "§3Умно",
+    "value.ebe.all": "§2Все",
+    "value.ebe.most": "§aПоловина",
+    "value.ebe.some": "§cМеньше",
+    "value.ebe.few": "§4Минимум"
+}

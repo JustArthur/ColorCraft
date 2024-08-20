@@ -1,0 +1,6 @@
+{
+  "debugify.gameplay.warning": "§4ВНИМАНИЕ: §rЭта категория содержит исправления, которые могут являться несправедливым преимуществом!",
+  "debugify.fix.enabled": "§2Исправлено",
+  "debugify.fix.disabled": "§сНе исправлено",
+  "debugify.fix.unavailable": "§сНедоступно",
+}
