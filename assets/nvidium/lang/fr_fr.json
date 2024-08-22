@@ -6,7 +6,7 @@
     "nvidium.options.automatic_memory_limit.tooltip" : "Détermine automatiquement la limite de mémoire à définir en fonction de la quantité de VRAM disponible sur votre système (Fermez et rouvrez les paramètres pour modifier la mémoire maximale)",
     "nvidium.options.max_gpu_memory.name" : "Mémoire GPU maximale",
     "nvidium.options.max_gpu_memory.tooltip" : "Mémoire GPU maximale autorisée, commencera à supprimer des chunks si cette limite est atteinte",
-    "nvidium.options.enable_temporal_coherence.name" : "§aActiver§r la cohérence temporelle",
+    "nvidium.options.enable_temporal_coherence.name" : "Activer la cohérence temporelle",
     "nvidium.options.enable_temporal_coherence.tooltip" : "Élimine les artefacts lorsque vous vous tournez",
     "nvidium.options.mb" : "%s Mo",
     "nvidium.options.translucency_sorting.name" : "Tri de translucidité",
@@ -21,6 +21,6 @@
     "nvidium.options.statistics_level.regions" : "Régions",
     "nvidium.options.statistics_level.sections" : "Sections",
     "nvidium.options.statistics_level.quads" : "Quads",
-    "nvidium.options.async_bfs.name" : "§aActiver§r le BFS asynchrone",
+    "nvidium.options.async_bfs.name" : "Activer le BFS asynchrone",
     "nvidium.options.async_bfs.tooltip" : "Active le chargement asynchrone des sections de chunk BFS, réduit considérablement le temps de trame lors des déplacements, plus perceptible avec des distances de rendu plus élevées"
 }

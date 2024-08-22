@@ -6,28 +6,28 @@ Enhance your Minecraft experience with this texture pack designed to improve tex
 - [Unique Dark (Free version)](https://modrinth.com/resourcepack/unique-dark)
 
 ### Main menu with red text for "Quit Game"
-![Quit Game is now red](https://github.com/JustArthur/ColorCraft/blob/main/images/en/CreateWorld_en.png?raw=true)
+![Quit Game is now red](https://github.com/JustArthur/ColorCraft/blob/main/images/CreateWorld_en.png?raw=true)
 
 ### Create new world with style now 😎
-![Create new world](https://github.com/JustArthur/ColorCraft/blob/main/images/en/CreateWorld_en.png?raw=true)
+![Create new world](https://github.com/JustArthur/ColorCraft/blob/main/images/CreateWorld_en.png?raw=true)
 
 ### Choose your best settings (Sodium Support)
-![Colors for settings](https://github.com/JustArthur/ColorCraft/blob/main/images/en/Settings_en.png?raw=true)
+![Colors for settings](https://github.com/JustArthur/ColorCraft/blob/main/images/Settings_en.png?raw=true)
 
 ### Enhanced your gamerules
-![Gamerules support](https://github.com/JustArthur/ColorCraft/blob/main/images/en/Gamerules_en.png?raw=true)
+![Gamerules support](https://github.com/JustArthur/ColorCraft/blob/main/images/Gamerules_en.png?raw=true)
 
 ### Colored enchantments
-![Enchantments support](https://github.com/JustArthur/ColorCraft/blob/main/images/en/Enchantment_en.png?raw=true)
+![Enchantments support](https://github.com/JustArthur/ColorCraft/blob/main/images/Enchantment_en.png?raw=true)
 
 ### Colored blocks and creative tabs support (Black, Brown and Pink colors are not supported)
-![Colored Blocks support](https://github.com/JustArthur/ColorCraft/blob/main/images/en/CreativeTabs_en.png?raw=true)
+![Colored Blocks support](https://github.com/JustArthur/ColorCraft/blob/main/images/CreativeTabs_en.png?raw=true)
 
 ### Gamemode inside the chat !
-![Chat](https://github.com/JustArthur/ColorCraft/blob/main/images/en/Gamemode_en.png?raw=true)
+![Chat](https://github.com/JustArthur/ColorCraft/blob/main/images/Gamemode_en.png?raw=true)
 
 ### Lot of effect !
-![Effects](https://github.com/JustArthur/ColorCraft/blob/main/images/en/EffectSupport_en.png?raw=true)
+![Effects](https://github.com/JustArthur/ColorCraft/blob/main/images/EffectSupport_en.png?raw=true)
 
 # Supported languages
 - en_us
@@ -45,3 +45,8 @@ Enhance your Minecraft experience with this texture pack designed to improve tex
 - [Drip Sounds](https://modrinth.com/mod/dripsounds-fabric)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+- [Durability Tooltip](https://modrinth.com/mod/durability-tooltip)
+- [Hopper The Hedgehog](https://modrinth.com/mod/hopper-the-hedgehog)
+- [Smelter The Hedgehog](https://modrinth.com/mod/smelter-the-hedgehog)
+- [oωo](https://modrinth.com/mod/owo-lib)
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)

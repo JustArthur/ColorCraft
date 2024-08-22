@@ -1,0 +1,10 @@
+{
+  "text.config.smelterhedgehog.option.Furnace.CookTime.tooltip": "How fast items smelt (Minecraft default: 200)\n§eLower = Better",
+  "text.config.smelterhedgehog.option.Furnace.FuelEfficiency.tooltip": "How fast fuel is consumed (Minecraft default: 200)\n§eLower = Better",
+  "text.config.smelterhedgehog.option.BlastFurnace.CookTime.tooltip": "How fast items smelt (Minecraft default: 100)\n§eLower = Better",
+  "text.config.smelterhedgehog.option.BlastFurnace.FuelEfficiency.tooltip": "How fast fuel is consumed (Minecraft default: 100)\n§eLower = Better",
+  "text.config.smelterhedgehog.option.Smoker.CookTime.tooltip": "How fast items smelt (Minecraft default: 100)\n§eLower = Better",
+  "text.config.smelterhedgehog.option.Smoker.FuelEfficiency.tooltip": "How fast fuel is consumed (Minecraft default: 100)\n§eLower = Better",
+  "text.config.smelterhedgehog.option.Other.CookTime.tooltip": "How fast items smelt (Minecraft default: 200)\n§eLower = Better",
+  "text.config.smelterhedgehog.option.Other.FuelEfficiency.tooltip": "How fast fuel is consumed (Minecraft default: 200)\n§eLower = Better"
+}

@@ -1,0 +1,20 @@
+{
+  "shulkerboxtooltip.config.ender_chest_sync_type.active": "§aАктивный",
+  "shulkerboxtooltip.config.ender_chest_sync_type.none": "§cНет",
+  "shulkerboxtooltip.config.item_stack_merging_strategy.ignore": "§eИгнорировать",
+  "shulkerboxtooltip.config.tooltip_type.none": "§cНет",
+  "shulkerboxtooltip.config.tooltip_type.vanilla": "§9Vanilla",
+  "shulkerboxtooltip.config.validator.greater_than_zero": "§cДолжно быть положительным",
+  "shulkerboxtooltip.config.cannot_save": "§4Ошибка!",
+  "shulkerboxtooltip.config.exit_minecraft": "§cПокинуть Майнкрафт",
+  "shulkerboxtooltip.config.ignore_restart": "§eПропустить и продолжить",
+  "shulkerboxtooltip.config.quit.confirm": "§cВыйти и отменить изменения",
+  "shulkerboxtooltip.config.quit.confirm.title": "§4Изменения не сохранены",
+  "shulkerboxtooltip.config.quit.unsaved": "§cОтменить изменения",
+  "shulkerboxtooltip.config.reset_to_default.full": "§eСброс до настроек по умолчанию",
+  "shulkerboxtooltip.config.restart_required.title": "§cТребуется перезагрузка игры",
+  "shulkerboxtooltip.config.save": "§eСохранить и выйти",
+  "shulkerboxtooltip.config.undo.full": "§cОтменить изменения",
+  "shulkerboxtooltip.config.validator.invalid_color": "§cНедопустимый код цвета",
+  "shulkerboxtooltip.config.validator.multiple_errors": "§cМножество ошибок"
+}

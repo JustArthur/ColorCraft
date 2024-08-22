@@ -1,0 +1,20 @@
+{
+  "shulkerboxtooltip.config.cannot_save": "§4Erreur !",
+  "shulkerboxtooltip.config.ender_chest_sync_type.active": "§aActive",
+  "shulkerboxtooltip.config.ender_chest_sync_type.none": "§cAucune",
+  "shulkerboxtooltip.config.exit_minecraft": "§cQuitter Minecraft",
+  "shulkerboxtooltip.config.ignore_restart": "§eIgnorer et continuer",
+  "shulkerboxtooltip.config.item_stack_merging_strategy.ignore": "§eIgnorer",
+  "shulkerboxtooltip.config.quit.confirm": "§cQuitter quand même",
+  "shulkerboxtooltip.config.quit.confirm.title": "§4Modifications non sauvegardées",
+  "shulkerboxtooltip.config.quit.unsaved": "§cAnnuler les modifications",
+  "shulkerboxtooltip.config.reset_to_default.full": "§eRéinitialiser",
+  "shulkerboxtooltip.config.restart_required.title": "§cRedémarrage requis",
+  "shulkerboxtooltip.config.save": "§eSauvegarder & Quitter",
+  "shulkerboxtooltip.config.tooltip_type.none": "§rAucune",
+  "shulkerboxtooltip.config.tooltip_type.vanilla": "§9Vanilla",
+  "shulkerboxtooltip.config.undo.full": "§cAnnuler la modification",
+  "shulkerboxtooltip.config.validator.greater_than_zero": "§cDoit être plus grand que zéro",
+  "shulkerboxtooltip.config.validator.invalid_color": "§cCode couleur invalide",
+  "shulkerboxtooltip.config.validator.multiple_errors": "§cErreurs multiples"
+}

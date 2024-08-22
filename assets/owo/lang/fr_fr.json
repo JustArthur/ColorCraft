@@ -1,0 +1,55 @@
+{
+  "text.owo.itemGroup.tab_template": [
+    { "index": 0 },
+    { "text": " > ", "color": "gray" },
+    { "index": 1, "color": "dark_gray" }
+  ],
+  "text.owo.itemGroup.select_hint": {"text": "§e[SHIFT-CLIC]§r Sélectionner plusieurs", "color": "gray"},
+  "text.owo.configure_hot_reload.title": "Configurer le rechargement à chaud",
+  "text.owo.configure_hot_reload.choose_file": "Choisir le fichier",
+  "text.owo.configure_hot_reload.save": "§aSauvegarder",
+  "text.owo.configure_hot_reload.model": [
+    {"text": "Modèle : ", "color": "yellow"},
+    {"index": 0, "color": "gray"}
+  ],
+  "text.owo.configure_hot_reload.reload_from.unset": "§cNon défini",
+  "text.owo.configure_hot_reload.reload_from": [
+    {"text": "Recharger depuis : ", "color": "yellow"},
+    {"index": 0, "color": "gray"}
+  ],
+  "text.owo.config.search": "Rechercher...",
+  "text.owo.config.search.matches": "%d sur %d",
+  "text.owo.config.search.no_matches": "Aucune correspondance",
+  "text.owo.config.must_restart": "Certaines modifications nécessitent un redémarrage pour s'appliquer",
+  "text.owo.config.button.exit_minecraft": "§4Quitter Minecraft",
+  "text.owo.config.button.ignore_restart": "§aRedémarrer plus tard",
+  "text.owo.config.button.range.edit_as_text": "Modifier en tant que texte",
+  "text.owo.config.button.range.edit_with_slider": "Modifier avec le curseur",
+  "text.owo.config.applies_after_restart": [
+    {"text": "⏻ ", "color": "#FAEA48"},
+    {"text": "Cette option s'appliquera après un redémarrage", "color": "gray"}
+  ],
+  "text.owo.config.managed_by_server": [
+    {"text": "⚑ ", "color": "#EB1D36"},
+    {"text": "Cette option est gérée par le serveur\n   Déconnectez-vous pour la modifier", "color": "gray"}
+  ],
+  "text.owo.config.button.reload": "§eRecharger",
+  "text.owo.config.button.done": "§aSauvegarder",
+  "text.owo.config.sections_tooltip": "Sections",
+  "text.owo.config.sections": {"text": "Sections", "underlined": true},
+  "text.owo.config.list.add_entry": "Ajouter une entrée",
+  "text.owo.config.boolean_toggle.enabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "✔", "color": "#55FF55"},
+    {"text": "]", "color": "gray"},
+    " §aActiver"
+  ],
+  "text.owo.config.boolean_toggle.disabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "❌", "color": "#EB1D36"},
+    {"text": "]", "color": "gray"},
+    " §cDésactiver"
+  ]
+}

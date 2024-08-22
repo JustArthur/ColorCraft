@@ -1,6 +1,4 @@
 {
-    "nvidium.options.enable_temporal_coherence.name" : "§aEnables§r temporal coherence",
     "nvidium.options.translucency_sorting.none" : "§cNone",
-    "nvidium.options.statistics_level.none" : "§cNone",
-    "nvidium.options.async_bfs.name" : "§aEnable§r async bfs"
+    "nvidium.options.statistics_level.none" : "§cNone"
 }

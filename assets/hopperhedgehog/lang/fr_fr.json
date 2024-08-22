@@ -1,0 +1,15 @@
+{
+    "text.config.hopperhedgehog.title": "Configuration de Hopper The Hedgehog",
+    "text.config.hopperhedgehog.option.HopperFunctions": "Modifications de l'entonnoir",
+    "text.config.hopperhedgehog.option.HopperFunctions.tooltip": "Active ou désactive les modifications de la quantité/vitesse de l'entonnoir",
+    "text.config.hopperhedgehog.option.ItemDispenserFunctions": "Modifications du Distributeur/Goutteur",
+    "text.config.hopperhedgehog.option.ItemDispenserFunctions.tooltip": "Active ou désactive les modifications du Distributeur/Goutteur",
+    "text.config.hopperhedgehog.option.TransferSpeed": "Vitesse de Transfert de l'entonnoir",
+    "text.config.hopperhedgehog.option.TransferSpeed.tooltip": "La vitesse de transfert des objets §e(Plus bas = Plus rapide)§r\n§4 Attention : Régler sur 1 entraînera un décalage du Redstone. Il est recommandé de mettre au moins une vitesse de 2 ou plus",
+    "text.config.hopperhedgehog.option.InputAmount": "Quantité d'entrée de l'entonnoir",
+    "text.config.hopperhedgehog.option.InputAmount.tooltip": "La quantité d'objets qu'un entonnoir peut recevoir à la fois\n§4 Attention : Modifier la quantité peut casser plusieurs fonctions, y compris le tri automatique",
+    "text.config.hopperhedgehog.option.OutputAmount": "Quantité de sortie de l'entonnoir",
+    "text.config.hopperhedgehog.option.OutputAmount.tooltip": "La quantité d'objets qu'un entonnoir peut sortir à la fois\n§4 Attention : Modifier la quantité peut casser plusieurs fonctions, y compris le tri automatique",
+    "text.config.hopperhedgehog.option.DispenseAmount": "Quantité de Distribution/Goutte",
+    "text.config.hopperhedgehog.option.DispenseAmount.tooltip": "La quantité d'objets à distribuer/goutter à la fois à partir des distributeurs et des goutteurs"
+}

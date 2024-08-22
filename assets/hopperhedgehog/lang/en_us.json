@@ -1,0 +1,3 @@
+{
+    "text.config.hopperhedgehog.option.TransferSpeed.tooltip": "The Speed to Transfer Items at §e(Lower = Faster)§r\n§4 Warning: Setting to 1 will result in Redstone being too slow. Recommend at least a speed of 2 or higher"
+}
