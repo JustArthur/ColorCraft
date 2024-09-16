@@ -1,0 +1,23 @@
+{
+	"physicsmod.gui.back": "§cНАЗАД",
+	"physicsmod.gui.reset": "§4СБРОС",
+	"physicsmod.gui.noblock": "§cНет блока",
+	"physicsmod.gui.nosound": "§cНет звука",
+	"physicsmod.gui.customize": "§eПерсонализ.",
+	"physicsmod.gui.add": "§aДобавить",
+	"physicsmod.gui.disabled": "§cОтключено",
+	"physicsmod.prop.error": "§4Ошибка",
+
+	"physicsmod.menu.physics.ocean.error": "§cФизика океана несовместима с Optifine и Immersive Portals. Вместо Optifine используйте Iris + Sodium (Fabric)/Oculus + Rubidium (Forge).",
+	"physicsmod.menu.physics.collapse.error": "§cВы можете изменить физику обвала только в файлах настроек сервера если не в одиночной игре (config/physicsmod/physics_server_config.json).",
+	"physicsmod.menu.physics.liquid.error": "§cФизика жидкостей несовместима с Optifine и Immersive Portals. Вместо Optifine используйте Iris + Sodium (Fabric)/Oculus + Rubidium (Forge).",
+	"physicsmod.menu.physics.snow.error": "§cФизика снега несовместима с Optifine и Immersive Portals. Вместо Optifine используйте Iris + Sodium (Fabric)/Oculus + Rubidium (Forge).",
+	"physicsmod.menu.physics.dynamicblocks.error": "§cДинамические блоки несовместимы с Immersive Portals.",
+
+	"physicsmod.enum.mobphysics.off": "§cВыкл.",
+	"physicsmod.enum.blockphysics.off": "§cВыкл.",
+
+	"physicsmod.menu.smoke.red": "§cR",
+	"physicsmod.menu.smoke.green": "§aG",
+	"physicsmod.menu.smoke.blue": "§9B"
+}

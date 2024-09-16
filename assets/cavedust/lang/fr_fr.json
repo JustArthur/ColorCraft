@@ -29,8 +29,6 @@
   "menu.cavedust.particle": "Particule : ",
   "menu.cavedust.particle.tooltip": "Particule à générer. Cliquez pour faire défiler.",
 
-  "key.cavedust.reload": "§eRecharger la configuration",
-  "key.cavedust.toggle": "§aActiver§r/§cDésactiver§r les Particules",
   "category.cavedust.spook": "Cave Dust",
 
   "debug.cavedust.toggle.true": "(Cave Dust) Particules §aactivées",

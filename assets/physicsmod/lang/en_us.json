@@ -1,0 +1,22 @@
+{
+	"physicsmod.gui.back": "§cBACK",
+	"physicsmod.gui.reset": "§4RESET",
+	"physicsmod.gui.noblock": "§cNo block",
+	"physicsmod.gui.nosound": "§cNo sound",
+	"physicsmod.gui.customize": "§eCustomize",
+	"physicsmod.gui.add": "§aAdd",
+	"physicsmod.gui.disabled": "§cDisabled",
+	"physicsmod.prop.error": "§4Error",
+
+    "physicsmod.menu.physics.ocean.error": "§cOcean physics are incompatible with Immersive Portals and Farsight. Use Iris + Sodium (Fabric)/Oculus + Rubidium (Forge) instead.",
+	"physicsmod.menu.physics.collapse.error": "§cYou can only change the collapse settings in the server config except for singleplayer (config/physicsmod/physics_server_config.json).",
+	"physicsmod.menu.physics.snow.error": "§cSnow physics are incompatible with Immersive Portals and Farsight. Use Iris + Sodium (Fabric)/Oculus + Rubidium (Forge) instead.",
+	"physicsmod.menu.physics.dynamicblocks.error": "§cDynamic Block physics are incompatible with Immersive Portals and Farsight.",
+
+	"physicsmod.enum.mobphysics.off": "§cOff",
+	"physicsmod.enum.blockphysics.off": "§cOff",
+
+	"physicsmod.menu.smoke.red": "§cRed",
+	"physicsmod.menu.smoke.green": "§aGreen",
+	"physicsmod.menu.smoke.blue": "§9Blue"
+}

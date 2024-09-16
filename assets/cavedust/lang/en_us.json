@@ -16,8 +16,6 @@
   "menu.cavedust.enhanceddetection.false": "Enhanced detection: §cDisabled",
   "menu.cavedust.superflatstatus.true": "Superflat particles: §aEnabled",
   "menu.cavedust.superflatstatus.false": "Superflat particles: §cDisabled",
-  "key.cavedust.reload": "§eReload Config",
-  "key.cavedust.toggle": "§aEnable§r/§cDisabled§r Particles",
 
   "debug.cavedust.toggle.true": "(Cave Dust) §aEnabled§r particles",
   "debug.cavedust.toggle.false": "(Cave Dust) §cDisabled§r particles",

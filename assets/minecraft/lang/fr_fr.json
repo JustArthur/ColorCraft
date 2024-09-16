@@ -17,11 +17,17 @@
 	"options.graphics.fancy": "§aDétaillés",
 	"options.graphics.fast": "§eRapides",
 
+	"deathScreen.title": "§4VOUS ÊTES MORT !",
+	"deathScreen.title.hardcore": "§4PARTIE FINI !",
+
 	"options.narrator.all": "§aTout",
 	"options.narrator.chat": "§aTchat",
 	"options.narrator.system": "§aSystème",
 	"options.narrator.notavailable": "§cIndisponible",
 	"options.narrator.off": "§cDésactivé",
+
+	"options.biomeBlendRadius.1": "§cOFF (Rapide)",
+    "options.biomeBlendRadius.15": "§g15x15 (Maximum)",
 
 	"gui.no": "§cNon",
 	"gui.yes": "§aOui",
@@ -79,6 +85,26 @@
 	"selectServer.deleteButton": "§cSupprimer",
 	"selectServer.deleteQuestion": "Êtes vous sûre de vouloir §csupprimer§r ce serveur ?",
 
+	"debug.advanced_tooltips.help": "§e[F3 + H]§7 Info-bulles avancées",
+    "debug.chunk_boundaries.help": "§e[F3 + G]§7 Afficher les bordures des chunks",
+    "debug.clear_chat.help": "§e[F3 + D]§7 Effacer le tchat",
+    "debug.copy_location.help": "§e[F3 + C]§7 Coper la position en tant que commande /tp",
+    "debug.creative_spectator.help": "§e[F3 + N]§7 Alterner entre le mode de jeu précédent <-> spectateur",
+    "debug.dump_dynamic_textures.help": "§e[F3 + S]§7 Exporter les textures dynamiques",
+    "debug.gamemodes.help": "§e[F3 + F4]§7 Ouvrir le sélecteur de mode de jeu",
+    "debug.help.help": "§e[F3 + Q]§7 Recharger les chunks",
+    "debug.inspect.help": "§e[F3 + I]§7 Copier les données d'entité ou de bloc",
+    "debug.pause_focus.help": "§e[F3 + P]§7 Mettre en pause lors de la perte de focus",
+    "debug.profiling.help": "§e[F3 + L]§7 Démarrer/arrêter le profilage",
+    "debug.reload_chunks.help": "§e[F3 + A]§7 Afficher cette liste",
+    "debug.reload_resourcepacks.help": "§e[F3 + T]§7 Recharger les pack de ressources",
+    "debug.show_hitboxes.help": "§e[F3 + B]§7 Afficher les boîtes de collision",
+	"debug.pause.help": "§e[F3 + Esc]§7 Mettre en pause sans afficher le menu",
+
+	"screenshot.success": "Capture d'écran enregistrée sous le nom de §e%s",
+
+    "mount.onboard": "Appuyez sur §e[%1$s§e]§r pour descendre",
+
 	"effect.minecraft.absorption": "§7Absorption",
 	"effect.minecraft.bad_omen": "§8Mauvais présage",
 	"effect.minecraft.blindness": "§8Cécité",
@@ -119,14 +145,11 @@
     "effect.minecraft.weaving": "§fTissage",
     "effect.minecraft.wind_charged": "§bSouffle",
 
-	"deathScreen.title": "§cVous êtes mort !",
-  	"deathScreen.title.hardcore": "§cPartie fini !",
-
 	"event.minecraft.raid.defeat": "§4Défaite",
 	"event.minecraft.raid.defeat.full": "Invasion - §4Défaite",
-	"event.minecraft.raid.victory": "§2Victoire",
-	"event.minecraft.raid.victory.full": "Invasion - §2Victoire",
-	"event.minecraft.raid": "§4Invasion",
+	"event.minecraft.raid.victory": "§aVictoire",
+	"event.minecraft.raid.victory.full": "Invasion - §aVictoire",
+	"event.minecraft.raid": "§cInvasion",
 
 	"commands.experience.add.levels.success.multiple": "Don de§2 %s niveau(x) d'expérience§r à %s joueurs",
 	"commands.experience.add.levels.success.single": "Don de§2 %s niveau(x)d'expérience§r à %s",

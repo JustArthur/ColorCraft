@@ -1,0 +1,20 @@
+{
+  "iris.shaders.reloaded.failure": "§cFailed to reload shaders!§r \nReason: %s",
+  "iris.shaders.toggled.failure": "§cFailed to toggle shaders!§r \nReason: %s",
+  "iris.sodium.failure.title": "§4Iris failed to load!",
+
+  "options.iris.apply": "§aApply",
+  "options.iris.refresh": "§eRefresh",
+
+  "options.iris.shaders.disabled": "Shaders: §cDisabled",
+  "options.iris.shaders.enabled": "Shaders: §aEnabled",
+
+  "options.iris.back": "§cBack",
+  "options.iris.reset": "§eReset",
+
+  "options.iris.gui.hide": "§cHide GUI",
+  "options.iris.gui.show": "§aShow GUI",
+
+  "label.iris.true": "§aOn",
+  "label.iris.false": "§cOff"
+}

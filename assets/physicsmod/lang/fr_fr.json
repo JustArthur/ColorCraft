@@ -1,0 +1,24 @@
+{
+	"physicsmod.gui.back": "§cRETOUR",
+	"physicsmod.gui.reset": "§4RÉINITIALISER",
+	"physicsmod.gui.noblock": "§cAucun bloc",
+	"physicsmod.gui.nosound": "§cAucun son",
+	"physicsmod.gui.customize": "§eModifier",
+	"physicsmod.gui.add": "§aAjouter",
+	"physicsmod.gui.disabled": "§cDésactivé",
+	"physicsmod.prop.error": "§4Erreur",
+
+    "physicsmod.menu.physics.ocean.error": "§cLa simulation des océans est incompatible avec Optifine et Immersive Portals. Utilisez Iris + Sodium (Fabric)/Oculus + Rubidium (Forge) à la place.",
+	"physicsmod.menu.physics.collapse.error": "§cVous ne pouvez changer les paramètres d'effondrement des blocs que dans la configuration du serveur, sauf en mode solo(config/physicsmod/physics_server_config.json).",
+	"physicsmod.menu.physics.liquid.error": "§cLa simulation des liquides est incompatible avec Optifine et Immersive Portals. Utilisez Iris + Sodium (Fabric)/Oculus + Rubidium (Forge) à la place.",
+	"physicsmod.menu.physics.snow.error": "§cLa simulation de la neige est incompatible avec Optifine et Immersive Portals. Utilisez Iris + Sodium (Fabric)/Oculus + Rubidium (Forge) à la place.",
+	"physicsmod.menu.physics.dynamicblocks.error": "§cLa simulation dynamique des blocs est incompatible Avec Immersive Portals.",
+
+	"physicsmod.enum.mobphysics.off": "§cOff",
+
+	"physicsmod.enum.blockphysics.off": "§cOff",
+	
+	"physicsmod.menu.smoke.red": "§cRouge",
+	"physicsmod.menu.smoke.green": "§aVert",
+	"physicsmod.menu.smoke.blue": "§9Bleu"
+}

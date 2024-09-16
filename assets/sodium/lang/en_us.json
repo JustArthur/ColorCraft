@@ -1,0 +1,11 @@
+{
+  "sodium.option_impact.low": "§aLow",
+  "sodium.option_impact.medium": "§eMedium",
+  "sodium.option_impact.high": "§cHigh",
+  "sodium.option_impact.extreme": "§4Extreme",
+  "sodium.option_impact.varies": "§5Varies",
+  "sodium.options.buttons.undo": "§cUndo",
+  "sodium.options.buttons.apply": "§aApply",
+  "sodium.options.buttons.donate": "§cB§6u§ey §3u§9s §ca §ec§ao§3f§9f§5e§ce§6!",
+  "sodium.console.broken_nvidia_driver": "Your §2NVIDIA§r graphics drivers are out of date!\n  * This will cause severe performance issues and crashes when Sodium is installed.\n  * Please update your graphics drivers to the latest version (version 536.23 or newer.)"
+}

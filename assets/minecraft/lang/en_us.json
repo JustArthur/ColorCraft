@@ -7,8 +7,8 @@
     "commands.give.success.multiple": "Gave %s §6 %s §r to %s players",
     "commands.give.success.single": "Gave %s §6 %s §r to %s",
 
-    "deathScreen.title": "§4You Died!",
-    "deathScreen.title.hardcore": "§4Game Over!",
+    "deathScreen.title": "§4YOU DIED !",
+    "deathScreen.title.hardcore": "§4GAME OVER!",
 
     "event.minecraft.raid": "§4Raid",
     "event.minecraft.raid.defeat": "§4Defeat",
@@ -56,6 +56,9 @@
     "options.narrator.off": "§cOFF",
     "options.narrator.system": "§aNarrates System",
 
+    "options.biomeBlendRadius.1": "§cOFF (Fastest)",
+    "options.biomeBlendRadius.15": "§g15x15 (Maximum)",
+
     "options.off": "§cOFF",
     "options.on": "§aON",
 
@@ -88,6 +91,25 @@
 	"selectWorld.edit.backupSize": "size: §e%s MB",
 	"selectWorld.edit.title": "§eEdit world",
 	"selectWorld.edit.save": "§aSave",
+
+    "screenshot.success": "Saved screenshot as §e%s",
+
+    "debug.advanced_tooltips.help": "§e[F3 + H]§7 Advanced tooltips",
+    "debug.chunk_boundaries.help": "§e[F3 + G]§7 Show chunk boundaries",
+    "debug.clear_chat.help": "§e[F3 + D]§7 Clear chat",
+    "debug.copy_location.help": "§e[F3 + C]§7 Copy location as /tp command, hold F3 + C to crash the game",
+    "debug.crash.message": "§e[F3 + C]§7  held down. This will crash the game unless released.",
+    "debug.creative_spectator.help": "§e[F3 + N]§7 Cycle previous game mode <-> spectator",
+    "debug.dump_dynamic_textures.help": "§e[F3 + S]§7 Dump dynamic textures",
+    "debug.gamemodes.help": "§e[F3 + F4]§7 Open game mode switcher",
+    "debug.help.help": "§e[F3 + Q]§7 Show this list",
+    "debug.inspect.help": "§e[F3 + I]§7 Copy entity or block data to clipboard",
+    "debug.pause_focus.help": "§e[F3 + P]§7 Pause on lost focus",
+    "debug.pause.help": "§e[F3 + E]§7 Pause without pause menu (if pausing is possible)",
+    "debug.profiling.help": "§e[F3 + L]§7 Start/stop profiling",
+    "debug.reload_chunks.help": "§e[F3 + A]§7 Reload chunks",
+    "debug.reload_resourcepacks.help": "§e[F3 + T]§7 Reload resource packs",
+    "debug.show_hitboxes.help": "§e[F3 + B]§7 Show hitboxes",
 
     "effect.minecraft.absorption": "§7Absorption",
     "effect.minecraft.bad_omen": "§8Bad Omen",
