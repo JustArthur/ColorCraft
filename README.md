@@ -60,6 +60,7 @@ Enhance your Minecraft experience with this texture pack designed to improve tex
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Steve's Realistic Sleep](https://modrinth.com/mod/stevesrealisticsleep)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [Terralith](https://modrinth.com/datapack/terralith) (Fix Biome name for en_us and fr_fr)
 - [VanillaTweaks](https://modrinth.com/mod/vanillatweaks)
 - [Vein Mining](https://modrinth.com/mod/vein-mining)
 - [Wakes](https://modrinth.com/mod/wakes)
