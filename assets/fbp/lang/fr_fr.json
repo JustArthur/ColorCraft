@@ -1,0 +1,10 @@
+{
+  "button.fbp.common.reload": "§eRecharger la configuration",
+  "button.fbp.common.reset": "§cRéinitialiser",
+  "button.fbp.common.done": "§aTerminé",
+
+  "button.fbp.common.true": "§aACTIVÉ",
+  "button.fbp.common.false": "§cDÉSACTIVÉ",
+
+  "button.fbp.global.enabled": "§aActivé"
+}
