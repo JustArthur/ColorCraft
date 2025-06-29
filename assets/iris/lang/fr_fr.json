@@ -6,7 +6,7 @@
     "iris.keybind.toggleShaders": "Activation des shaders",
     "iris.keybinds": "Iris",
     "iris.shaders.reloaded.failure": "§cÉchec lors du rechargement des shaders !§r \nRaison : %s",
-    "iris.shaders.toggled.failure": "§cÉchec lors de l'activation des shaders !§r \nRaison : %s",
+    "iris.shaders.toggled.failure": "§cÉchec lors de l'activation des shaders !§r \nRaison : %s",
     "options.iris.apply": "§aAppliquer",
     "options.iris.refresh": "§eRafraichir",
     "options.iris.openShaderPackFolder": "Ouvrir le dossier des packs de shaders...",
